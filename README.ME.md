@@ -14,6 +14,8 @@
 
 [手机端的总结](https://github.com/jtyjty99999/mobileTech)
 
+[秋风总结前端资源](https://github.com/AutumnsWind/Front-end-tutorial)
+
 NODE | 参考
 --- | --- 
 node | https://github.com/sindresorhus/awesome-nodejs
