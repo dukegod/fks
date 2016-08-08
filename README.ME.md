@@ -45,7 +45,6 @@ node | https://github.com/sindresorhus/awesome-nodejs
 ## ES2015
 
 **ES2015** | 参考文档
-
 --- | ---
 ES2015主要的特点 | https://github.com/ES-CN/es6features
 ES2015写的设计模式 | https://github.com/DavidCai1993/JsPatterns-ES6
