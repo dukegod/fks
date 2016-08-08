@@ -36,8 +36,7 @@
 
 ## node
 
-**node** | **文档参考**
-
+node | 文档参考
 --- | ---
 node | https://github.com/sindresorhus/awesome-nodejs
 天码营 | [node](http://course.tianmaying.com/node)
