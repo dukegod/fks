@@ -39,8 +39,6 @@ awesome | https://github.com/sindresorhus/awesome
 齐舞团 | http://www.75team.com/
 --- | ---
 
-[齐舞团](http://www.75team.com/)
-
 ## node
 
 node | 参考文档
