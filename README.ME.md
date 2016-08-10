@@ -42,6 +42,14 @@ node | https://github.com/sindresorhus/awesome-nodejs
 天码营 | [node](http://course.tianmaying.com/node)
 --- | ---
 
+## JavaScript
+
+JavaScript | 参考文档
+--- | ---
+You-Dont-Know-JS | https://github.com/getify/You-Dont-Know-JS
+--- | ---
+
+
 ## ES2015
 
 **ES2015** | 参考文档
