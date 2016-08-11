@@ -51,7 +51,9 @@ node | https://github.com/sindresorhus/awesome-nodejs
 
 JavaScript | 参考文档
 --- | ---
+javascript核心及实践(邱俊涛) | http://down.51cto.com/data/1882791
 You-Dont-Know-JS | https://github.com/getify/You-Dont-Know-JS
+JavaScript 高级编程 |
 --- | ---
 
 
