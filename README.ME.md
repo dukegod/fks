@@ -47,6 +47,13 @@ node | https://github.com/sindresorhus/awesome-nodejs
 天码营 | [node](http://course.tianmaying.com/node)
 --- | ---
 
+## Lua
+
+Lua | 参考文档
+--- | ---
+Lua | https://github.com/bungle/awesome-resty
+--- | ---
+
 ## JavaScript
 
 JavaScript | 参考文档
@@ -83,5 +90,3 @@ React 路由 | 参考文档
 路由中文文档 | https://react-guide.github.io/react-router-cn/
 阮一峰 | http://www.ruanyifeng.com/blog/2016/05/react_router.html
 --- | ---
-
-
