@@ -54,6 +54,13 @@ Lua | 参考文档
 Lua | https://github.com/bungle/awesome-resty
 --- | ---
 
+## openresty
+
+openresty | 参考文档
+--- | ---
+openresty | https://moonbingbing.gitbooks.io/openresty-best-practices/content/
+--- | ---
+
 ## JavaScript
 
 JavaScript | 参考文档
