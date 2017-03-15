@@ -47,6 +47,12 @@ node | https://github.com/sindresorhus/awesome-nodejs
 天码营 | [node](http://course.tianmaying.com/node)
 --- | ---
 
+node | 你应该知道的知识点
+--- | ---
+饿了么node面试 | https://github.com/ElemeFE/node-interview
+nodejs-advanced | [node-qa](https://gold.xitu.io/post/57b54f151532bc0063ebfe31)[node](https://www.pluralsight.com/courses/nodejs-advanced)
+--- | ---
+
 ## Lua
 
 Lua | 参考文档
